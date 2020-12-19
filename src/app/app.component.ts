@@ -8,5 +8,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'MyFirstAnglProj';
   date = new Date();
-  name = 'Nithesh Shetty';
+  name = 'Nithesh_Shetty';
 }
